@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class NroMaiorMenorMediaEntre4Nros {
 
 	public static void main(String[] args) {
-		int contador = 0, num = 0, soma = 0;
+	    int contador = 0, num = 0, soma = 0;
 	    int max = Integer.MIN_VALUE;
 	    int min = Integer.MAX_VALUE;
 	    
