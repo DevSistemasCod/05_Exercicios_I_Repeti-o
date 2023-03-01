@@ -6,6 +6,7 @@ Diferenças entre i++, ++i e i = i + 1
 --------------------------------------------------------------------
 
 
+
 Exercícios I - while, do-while ou for
 
 1. Faça um programa em Java que some todos os números inseridos pelo usuário até que ele digite -1.
