@@ -1,8 +1,7 @@
 ------------------------------------------------------
-------------------------------------------------------
-Diferenças entre i++, ++i e i = i + 1
-Foi criado um estudo de caso em DiferencaCont.java
 
+Diferenças entre i++, ++i e i = i + 1
+(Foi criado um estudo de caso em DiferencaCont.java)
 ------------------------------------------------------
 
 
